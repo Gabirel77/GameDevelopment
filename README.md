@@ -12,4 +12,4 @@ Tecnologias Utilizadas
 Linguagem de Programação: Java
 Ambiente de Desenvolvimento: Eclipse IDE
 # Próximos Passos e Tecnologias Futuras
-O plano é expandir o projeto explorando outras linguagens e frameworks para o desenvolvimento de jogos, como Unity (C#), Unreal Engine (C++), entre outros. A ideia é construir jogos mais complexos e aprofundar conhecimentos em diferentes ambientes de desenvolvimento.
+Os próximos passos se resumem a expandir o projeto explorando outras linguagens e frameworks para o desenvolvimento de jogos, como Unity (C#), Unreal Engine (C++), entre outros. A ideia é construir jogos mais complexos e aprofundar conhecimentos em diferentes ambientes de desenvolvimento.
